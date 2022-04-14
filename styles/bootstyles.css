@@ -1,0 +1,18 @@
+body{
+    background-color:aliceblue;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.TabLeft{
+    padding-left: 60px;
+}
+
+.footer{
+    padding: 60px;
+    color:cornflowerblue;
+    border: 1mm;
+    border-color: black;
+}
